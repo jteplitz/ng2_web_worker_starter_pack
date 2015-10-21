@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <script src="../node_modules/systemjs/dist/system.src.js"></script>
+    <script src="../node_modules/angular2/bundles/web_worker/ui.dev.js"></script>
+    <script>
+      System.config({
+        packages: {"app": {defaultExtension: "js"}}
+      });
+      System.import("app/app");
+    </script>
+  </head>
+  <body>
+    <my-app>
+      Loading...
+    </my-app>
+  </body>
+</html>

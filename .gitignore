@@ -1,0 +1,3 @@
+node_modules
+src/app/*.js
+*.js.map
