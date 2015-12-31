@@ -1,4 +1,4 @@
-import {Component, View} from "angular2/web_worker/worker";
+import {Component, View} from "angular2/core";
 
 @Component({
   selector: "my-app"
