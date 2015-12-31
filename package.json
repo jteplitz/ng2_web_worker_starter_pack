@@ -1,5 +1,5 @@
 {
-  "name": "ng2_web_wimage_demo",
+  "name": "ng2_web_worker_starter_pack",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
   "author": "Jason Teplitz",
   "license": "Apache-2.0",
   "dependencies": {
-    "angular2": "2.0.0-alpha.42",
+    "angular2": "2.0.0-beta.0",
     "systemjs": "0.19.2"
   },
   "devDependencies": {
